@@ -2,9 +2,9 @@
 
 Chenlu & Yuzhi's production
 
-![](resources\ILOVEHITOMI.gif)
+<img src="resources\ILOVEHITOMI.gif" alt="fangxiangjian" />
 
-[TOC]
+
 
 ## 01/ Description
 
